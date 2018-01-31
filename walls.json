@@ -1,17 +1,29 @@
 [
 
 	
+
 	{
-		"name": "City Orb",
-		"author": "Eric Didier",
-		"url": "https://drive.google.com/uc?export=download&id=17sN3Wrr002qWcIaYGHUdlWPaQBTEJKYo",
-		"thumbnail": "https://drive.google.com/uc?export=download&id=1yS8WBLq0S3QWpyF3SwtQnK1_TW_QS-eP",
+		"name": "Newsworthy Wings",
+		"author": "Boris Smokrovic",
+		"url": "https://drive.google.com/uc?export=download&id=1vFki8IMOmPHzN44FkxmWbs0q0pCDBmN5",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1E4zVikYQTqaZr6I7R0Gfk9-dJWaP5u1O",
 		"downloadable": true,
-		"size": 4250000,
+		"size": 3180000,
 		"dimensions": "3200 x 4200 px",
 		"copyright": "Creative Commons — CC0"
 	},
 	
+	
+		{
+		"name": "Black Beach",
+		"author": "Syd Sujuaan",
+		"url": "https://drive.google.com/uc?export=download&id=12Zp1dsK-nfFCA6t-JdKAyBbUpIEeX7zz",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1WUMbfWEx3fInL3-xURDqht8uLqUuRku5",
+		"downloadable": true,
+		"size": 5450000,
+		"dimensions": "3200 x 4200 px",
+		"copyright": "Creative Commons — CC0"
+	},
 	
 	
 	
