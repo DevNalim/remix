@@ -1,6 +1,29 @@
 [
 
 	
+	{
+		"name": "Double Sun",
+		"author": "jplenio",
+		"url": "https://drive.google.com/uc?export=download&id=1JU9_Wl0in04Sc1UppBr6RqYwPguPSDXQ",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1aS1RQEIHV5j1GViaNJl24pq2EoiryNea",
+		"downloadable": true,
+		"size": 4120000,
+		"dimensions": "3200 x 4200 px",
+		"copyright": "Creative Commons — CC0"
+	},
+	
+	{
+		"name": "Face Off",
+		"author": "sasint",
+		"url": "https://drive.google.com/uc?export=download&id=1ZjV3P-9t1nVaB7jCOy1Q0QI8NYfkcMqU",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1lXh5JS0O-G8Ac4yJrD3RPWw5aOhcol9q",
+		"downloadable": true,
+		"size": 7480000,
+		"dimensions": "3200 x 4200 px",
+		"copyright": "Creative Commons — CC0"
+	},
+	
+	
 	
 	{
 		"name": "Kaleidocity",
