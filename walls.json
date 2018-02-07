@@ -1,6 +1,29 @@
 [
 
 	{
+		"name": "Sketched Coffee",
+		"author": "Sabri Tuzcu",
+		"url": "https://drive.google.com/uc?export=download&id=1sZpadxOfzgAAZFzV6bBqmbrRHR41WLSs",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1h7sejDgXSZGvXpcjGaS1wJk2dYAhXaM9",
+		"downloadable": true,
+		"size": 3260000,
+		"dimensions": "3200 x 4200 px",
+		"copyright": "Creative Commons — CC0"
+	},
+	
+		{
+		"name": "Monk Portal",
+		"author": "sasint",
+		"url": "https://drive.google.com/uc?export=download&id=1n7eNdPNg4DiMAK4cfAaHBxILZaXU6ENh",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1BG8JYLT-0kqZB2KjmyHaPnnUNGjde4ps",
+		"downloadable": true,
+		"size": 4980000,
+		"dimensions": "3200 x 4200 px",
+		"copyright": "Creative Commons — CC0"
+	},
+	
+	
+	{
 		"name": "Blak Yak",
 		"author": "Shane Rounce",
 		"url": "https://drive.google.com/uc?export=download&id=10hRCzsZ2l_Cjwi05m_U_yzbr0-6zmZ15",
