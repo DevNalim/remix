@@ -3,15 +3,15 @@
 	
 	
 	
-						{
-		"name": "Mathematical",
+		{
+		"name": "Exx",
 		"author": "SimpleWork Designs",
-		"url": "https://drive.google.com/uc?export=download&id=1XwOfR5SBWda_2DrWMfXwb5KWSU7_AHGm",
-		"thumbnail": "https://drive.google.com/uc?export=download&id=18IQo9wPHjAvG8pgNvUeVNOV2EEtWmOWC",
+		"url": "https://drive.google.com/uc?export=download&id=1deRZc_FWCvx_d9BV2-16O3oCmTPIo53C,
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1FB-R6S6vpGWkaWrxRTZ8N2g1zWUerVtV",
 		"collections": "Short Ones|Abstarct",
 		"downloadable": true,
-		"size": 133000,
-		"dimensions": "8100 x 4200 px",
+		"size": 147000,
+		"dimensions": "3200 x 4200 px",
 		"copyright": "CreativeCommons - CC0"
 	},
 	
@@ -19,8 +19,20 @@
 	
 	
 	
+	{
+		"name": "Mathematical",
+		"author": "SimpleWork Designs",
+		"url": "https://drive.google.com/uc?export=download&id=1XwOfR5SBWda_2DrWMfXwb5KWSU7_AHGm",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=18IQo9wPHjAvG8pgNvUeVNOV2EEtWmOWC",
+		"collections": "Short Ones|Abstarct",
+		"downloadable": true,
+		"size": 133000,
+		"dimensions": "3200 x 4200 px",
+		"copyright": "CreativeCommons - CC0"
+	},
 	
 	
+
 	
 					{
 		"name": "Basic",
