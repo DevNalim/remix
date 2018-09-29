@@ -5,13 +5,13 @@
 	
 		
 		{
-		"name": "Iron Man",
-		"author": "StickPNG",
-		"url": "https://drive.google.com/uc?export=download&id=1okbVDLQN2bruFeN4iSTeqvWlkaf1b5MT",
-		"thumbnail": "https://drive.google.com/uc?export=download&id=1V3nT8KkaQI-k6oHR-IsNuerkvb9WEaBS",
+		"name": "SuperMan",
+		"author": "Simplework Designs",
+		"url": "https://drive.google.com/uc?export=download&id=1rtku13QxgHbsSrIPGJLXaR7i50JW_ZHa",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1WFhRnVia0SHb6-cZvbi_J_b-XbRdLuvp",
 		"collections": "Movies",
 		"downloadable": true,
-		"size": 815000,
+		"size": 137000,
 		"dimensions": "3200 x 4200 px",
 		"copyright": "CreativeCommons - CC0"
 	},
@@ -58,6 +58,19 @@
 	
 
 	
+	
+			{
+		"name": "Iron Man",
+		"author": "StickPNG",
+		"url": "https://drive.google.com/uc?export=download&id=1okbVDLQN2bruFeN4iSTeqvWlkaf1b5MT",
+		"thumbnail": "https://drive.google.com/uc?export=download&id=1V3nT8KkaQI-k6oHR-IsNuerkvb9WEaBS",
+		"collections": "Movies",
+		"downloadable": true,
+		"size": 815000,
+		"dimensions": "3200 x 4200 px",
+		"copyright": "CreativeCommons - CC0"
+	},
+		
 	
 	
 	
